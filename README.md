@@ -2,8 +2,9 @@
 18/19 EE443 Final Year Project install instructions
 
 # ThingsBoard
-An Raspbian image of the ThingsBoard image has been provided
-Flash this to an sd card and boot Pi
+An Raspbian image of the ThingsBoard image has been provided.
+Unzip and Flash this to an sd card and boot Pi
+
 usr: pi
 pwd: Passw0rd
 
